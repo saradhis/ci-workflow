@@ -4,5 +4,4 @@
   * Build the checked out code
   * Run five tests in parallel 
   * Send notification for approval and wait for the specified timeout
-  * Once approved, release artificats 
-  * Test
+  * Once approved, release artificats
